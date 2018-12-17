@@ -1,0 +1,2 @@
+# Telescope
+Telescope automation project
